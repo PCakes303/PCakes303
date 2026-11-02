@@ -1,128 +1,163 @@
-<!--
-  PCakes303 | Cyber Intelligence
-  Profile README: https://github.com/PCakes303
--->
+<!-- PCakes303 | Cyber Intelligence Workspace -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=850&color=35D6F2&center=true&vCenter=true&width=760&lines=CYBER+INTELLIGENCE;OPEN+SOURCE+INTELLIGENCE;SWARM+TECHNOLOGY;CONNECTING+THE+SIGNALS" alt="Cyber intelligence, OSINT, swarm technology" />
+<img src="assets/cyber-intel-banner.svg" alt="PCakes303 — Cyber Intelligence, OSINT, and Swarm Technology" width="100%" />
 
 <br/>
 
-### CYBER INTELLIGENCE · OSINT · SWARM TECHNOLOGY
+**CYBER INTELLIGENCE · OPEN SOURCE INTELLIGENCE · SWARM TECHNOLOGY**
 
-**Collect. Correlate. Analyze. Orchestrate.**
+*Collect with purpose. Correlate with care. Turn signals into context.*
 
 <br/>
 
-<a href="https://github.com/PCakes303">
-  <img src="https://img.shields.io/badge/GitHub-PCakes303-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PCakes303" />
-</a>
-<img src="https://img.shields.io/badge/FOCUS-Cyber%20Intelligence-0B2538?style=for-the-badge&labelColor=071521" alt="Focus Cyber Intelligence" />
-<img src="https://img.shields.io/badge/SPECIALTY-OSINT-087E9B?style=for-the-badge&labelColor=071521" alt="Specialty OSINT" />
-<img src="https://img.shields.io/badge/INTEREST-Swarm%20Technology-6554A4?style=for-the-badge&labelColor=071521" alt="Interest Swarm Technology" />
+<a href="https://github.com/PCakes303"><img src="https://img.shields.io/badge/GitHub-PCakes303-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PCakes303" /></a>
+<img src="https://img.shields.io/badge/FOCUS-CYBER%20INTELLIGENCE-12344A?style=for-the-badge" alt="Cyber Intelligence" />
+<img src="https://img.shields.io/badge/RESEARCH-OSINT-087E9B?style=for-the-badge" alt="OSINT" />
+<img src="https://img.shields.io/badge/EXPLORING-SWARM%20SYSTEMS-6554A4?style=for-the-badge" alt="Swarm Systems" />
 
 </div>
 
 ---
 
-## 01 — INTELLIGENCE PROFILE
+## ◈ MISSION PROFILE
 
-An independent technical space focused on the cyber intelligence landscape and the technologies shaping how information is discovered, connected, and understood.
+PCakes303 is an independent technical workspace exploring how open information, cyber context, and coordinated systems can be brought together to produce clearer intelligence.
 
-My core interests are **Open Source Intelligence (OSINT), cyber intelligence, and swarm technology**. I’m interested in the intersection of investigative research, digital infrastructure, coordinated systems, and intelligent automation.
+The central interests are **Open Source Intelligence (OSINT)**, **cyber intelligence**, and **swarm technology** — including the methods, workflows, and architectures that connect collection, analysis, and coordination.
 
-The objective: move beyond isolated data points and explore how reliable information can be collected, evaluated, correlated, and transformed into useful context.
+> **The goal is not to collect more noise. It is to discover meaningful connections.**
 
-> **Turn information into insight. Turn connections into intelligence.**
+## ◈ INTELLIGENCE DOMAINS
 
-## 02 — AREAS OF FOCUS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Domain | Exploration |
+### ⌕ Open Source Intelligence
+- Public-source research
+- Digital footprint analysis
+- Domain and infrastructure research
+- Source evaluation and verification
+- Entity and relationship mapping
+
+</td>
+<td width="50%" valign="top">
+
+### ⛨ Cyber Intelligence
+- Cyber threat landscape research
+- Internet-facing infrastructure context
+- Exposure and risk research
+- Technical investigation workflows
+- Evidence-informed reporting
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⠿ Swarm Technology
+- Multi-agent concepts and architectures
+- Distributed task coordination
+- Agent collaboration and delegation
+- Parallel research workflows
+- Human-supervised automation
+
+</td>
+<td width="50%" valign="top">
+
+### ⌘ Intelligence Engineering
+- Collection and processing pipelines
+- Data enrichment and correlation
+- Workflow automation
+- Information visualization
+- Reproducible documentation
+
+</td>
+</tr>
+</table>
+
+## ◈ HOW THE WORK CONNECTS
+
+A useful intelligence workflow is more than a collection script. It needs a defined question, traceable sources, validation, and a clear account of uncertainty.
+
+```text
+          RESEARCH QUESTION
+                  |
+                  v
+        +-------------------+
+        |  SOURCE DISCOVERY |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        | COLLECTION &      |
+        | NORMALIZATION     |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        | VALIDATION &      |
+        | CORRELATION       |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        | ANALYSIS &        |
+        | CONTEXT           |
+        +-------------------+
+                  |
+                  v
+        +-------------------+
+        | HUMAN REVIEW &    |
+        | REPORTING         |
+        +-------------------+
+```
+
+Swarm and distributed approaches are an area of exploration across this workflow: independent workers can handle bounded tasks, while orchestration, provenance, and human review keep the overall process understandable.
+
+## ◈ CURRENT RESEARCH TRACKS
+
+| Track | Direction |
 |---|---|
-| **Open Source Intelligence** | Public-source discovery, research, verification, and analysis |
-| **Cyber Intelligence** | Digital infrastructure, threat context, and the cyber landscape |
-| **Swarm Technology** | Coordinated agents, distributed processes, and collaborative systems |
-| **Intelligence Automation** | Repeatable research workflows, collection, and processing |
-| **Data Correlation** | Entity discovery, relationship mapping, and contextual analysis |
-| **Digital Investigations** | Structured inquiry, source evaluation, and evidence-informed reporting |
+| **OSINT methods** | Repeatable, source-aware open-source research |
+| **Cyber context** | Understanding domains, infrastructure, and digital exposure |
+| **Swarm systems** | Coordinated agents, distributed tasks, and orchestration |
+| **Data intelligence** | Enrichment, entity resolution, and relationship discovery |
+| **Automation** | Observable workflows with meaningful human oversight |
 
-## 03 — SWARM TECHNOLOGY
+## ◈ WORKSPACE MAP
 
-A major area of interest is the use of multiple coordinated agents or processes to work toward a shared intelligence objective.
-
-Topics I’m exploring include:
-
-- Multi-agent system design and orchestration
-- Task delegation and agent collaboration
-- Distributed collection and processing
-- Coordinated research workflows
-- Data aggregation, enrichment, and correlation
-- Human-in-the-loop supervision
-- Resilient and observable automation pipelines
-
-**Many specialized processes. One coordinated mission.**
-
-## 04 — OSINT & CYBER INTELLIGENCE
-
-Research themes across the open-source and cyber intelligence ecosystem:
-
-- Publicly available information discovery
-- Domain, DNS, and internet infrastructure research
-- Digital footprint and exposure analysis
-- Threat research and contextual enrichment
-- Entity resolution and relationship analysis
-- Source validation and information correlation
-- Investigative workflow design
-- Clear, reproducible intelligence documentation
-
-Research is intended for lawful, ethical, and authorized purposes. Public availability does not remove the responsibility to respect privacy, applicable law, and platform terms.
-
-## 05 — TECHNICAL LANDSCAPE
-
-The work documented here may span:
-
-- OSINT research methods and tooling
-- Data collection and transformation
-- Scripting and workflow automation
-- Agent-based and distributed architectures
-- Information analysis and visualization
-- Cybersecurity research concepts
-- Documentation and reproducible workflows
-
-Tools and technologies will be identified in individual projects as they are used. This keeps the profile grounded in actual work rather than an inflated or speculative skills list.
-
-## 06 — PROJECTS & RESEARCH
-
-This repository is the public landing page for the PCakes303 workspace. As work develops, this section will point to practical experiments, tools, write-ups, and research artifacts.
-
-| Project area | Planned direction |
+| Path | Purpose |
 |---|---|
-| **OSINT utilities** | Small tools that support structured open-source research |
-| **Intelligence workflows** | Repeatable collection, enrichment, and analysis pipelines |
-| **Swarm experiments** | Multi-agent coordination and distributed task execution |
-| **Cyber research** | Technical investigations and documented findings |
+| [`docs/RESEARCH_FRAMEWORK.md`](docs/RESEARCH_FRAMEWORK.md) | A practical framework for responsible, reproducible research |
+| [`ROADMAP.md`](ROADMAP.md) | Public direction and project milestones |
+| [`SECURITY.md`](SECURITY.md) | Security and responsible disclosure guidance |
+| [`assets/`](assets/) | Visual assets used by this profile |
 
-*Project links will be added when repositories and write-ups are published.*
+As projects become real and public, their repositories and write-ups will be linked here. No placeholder project is presented as completed work.
 
-## 07 — PRINCIPLES
+## ◈ OPERATING PRINCIPLES
 
-- **Verify before concluding** — distinguish evidence from assumption.
-- **Context matters** — connect observations without overstating what they prove.
-- **Automate responsibly** — keep systems observable and human oversight meaningful.
-- **Document the process** — make methods and limitations clear.
-- **Respect boundaries** — pursue lawful, ethical, authorized research.
-- **Stay curious** — learn, test, refine, and share.
+- **Verify before concluding.** A lead is not a finding; corroborate important claims.
+- **Preserve provenance.** Record where information came from and when it was observed.
+- **Separate fact from inference.** Make confidence and uncertainty visible.
+- **Automate with oversight.** Prefer bounded, observable tasks and human review.
+- **Respect boundaries.** Work lawfully, ethically, and within authorization.
+- **Document for repeatability.** Explain methods, limitations, and results.
+
+## ◈ CONNECT
+
+Interested in OSINT, cyber intelligence, distributed systems, or responsible automation? Explore the repositories as they are published or connect through [GitHub](https://github.com/PCakes303).
 
 ---
 
 <div align="center">
 
-### INTELLIGENCE IS MORE THAN COLLECTION.
-### IT IS THE DISCOVERY OF CONNECTIONS.
+**INTELLIGENCE IS MORE THAN COLLECTION.**  
+**IT IS THE DISCOVERY OF CONNECTIONS.**
 
-<br/>
-
-<sub><code>PCakes303 // CYBER INTELLIGENCE & OPEN-SOURCE RESEARCH</code></sub>
+<sub><code>PCakes303 // CYBER INTELLIGENCE WORKSPACE</code></sub>
 
 </div>
