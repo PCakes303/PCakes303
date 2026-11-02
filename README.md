@@ -1,8 +1,8 @@
-<!-- PCakes303 | Cyber Intelligence Workspace -->
+<!-- MrCakes931 | Cyber Intelligence Workspace -->
 
 <div align="center">
 
-<img src="assets/cyber-intel-banner.svg" alt="PCakes303 — Cyber Intelligence, OSINT, and Swarm Technology" width="100%" />
+<img src="assets/cyber-intel-banner.svg" alt="MrCakes931 — Cyber Intelligence, OSINT, and Swarm Technology" width="100%" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<a href="https://github.com/PCakes303"><img src="https://img.shields.io/badge/GitHub-PCakes303-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PCakes303" /></a>
+<a href="https://github.com/PCakes303"><img src="https://img.shields.io/badge/GitHub-MrCakes931-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub MrCakes931" /></a>
 <img src="https://img.shields.io/badge/FOCUS-CYBER%20INTELLIGENCE-12344A?style=for-the-badge" alt="Cyber Intelligence" />
 <img src="https://img.shields.io/badge/RESEARCH-OSINT-087E9B?style=for-the-badge" alt="OSINT" />
 <img src="https://img.shields.io/badge/EXPLORING-SWARM%20SYSTEMS-6554A4?style=for-the-badge" alt="Swarm Systems" />
@@ -23,7 +23,7 @@
 
 ## ◈ MISSION PROFILE
 
-PCakes303 is an independent technical workspace exploring how open information, cyber context, and coordinated systems can be brought together to produce clearer intelligence.
+MrCakes931 is an independent technical workspace exploring how open information, cyber context, and coordinated systems can be brought together to produce clearer intelligence.
 
 The central interests are **Open Source Intelligence (OSINT)**, **cyber intelligence**, and **swarm technology** — including the methods, workflows, and architectures that connect collection, analysis, and coordination.
 
@@ -158,6 +158,6 @@ Interested in OSINT, cyber intelligence, distributed systems, or responsible aut
 **INTELLIGENCE IS MORE THAN COLLECTION.**  
 **IT IS THE DISCOVERY OF CONNECTIONS.**
 
-<sub><code>PCakes303 // CYBER INTELLIGENCE WORKSPACE</code></sub>
+<sub><code>MrCakes931 // CYBER INTELLIGENCE WORKSPACE</code></sub>
 
 </div>
